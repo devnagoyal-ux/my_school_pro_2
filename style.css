@@ -1,0 +1,54 @@
+h1{
+    color: deeppink;
+}
+
+.header{
+    background-color: navajowhite ;
+    display: flex;
+    justify-content: first baseline;
+}
+
+.header2{
+    background-color: lightseagreen ;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header3{
+    background-color: skyblue ;
+    display: flex;
+    justify-content: center;
+}
+
+.header4{
+    background-color: peachpuff;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.grid{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
+
+.footer{
+display: flex;
+justify-content: flex-end;
+}
+
+.footer2{
+    background-color: salmon ;
+    display: flex;
+    justify-content: center;
+}
+
+p{
+text-align: center;
+}
+
+h2{
+   color: tomato;
+}
+
+
